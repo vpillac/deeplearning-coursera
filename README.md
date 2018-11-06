@@ -7,7 +7,7 @@ Notebooks from the Deep Learning specialization from [deeplearning.ai](deeplearn
 2. Create the conda environment:
 ```bash
 conda env create -f environment.yml
-source activate deeplearning-coursera
+conda activate deeplearning-coursera
 ```
 
 3. Start Jupyer lab
