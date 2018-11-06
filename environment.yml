@@ -1,0 +1,15 @@
+name: deeplearning-coursera
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.6.5
+- jupyterlab
+- pip
+- ipykernel
+- pandas
+- numpy
+- h5py
+- scipy
+- pillow
+- matplotlib
